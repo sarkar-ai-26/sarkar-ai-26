@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm [Your Name]<br><br>I'm a Python Automation Engineer with deep expertise in Python, Building Automation Framework, Selenium and Appium. <br>Currently, I'm working with LTTS on assignment at BMW.<br><br>- 🐍 Specializing in Python-based automation frameworks.<br>- 🚗 Building and testing solutions for the automotive industry.<br>- 🧠 Currently exploring the exciting fields of Generative AI and Agentic AI.<br>- 📫 Let's connect: https://www.linkedin.com/in/yashraj26/
+Hi there 👋, I'm Yash <br><br>I'm a Python Automation Engineer with deep expertise in Python, Building Automation Framework, Selenium and Appium. <br>Currently, I'm working with LTTS on assignment at BMW.<br><br>- 🐍 Specializing in Python-based automation frameworks.<br>- 🚗 Building and testing solutions for the automotive industry.<br>- 🧠 Currently exploring the exciting fields of Generative AI and Agentic AI.<br>- 📫 Let's connect: https://www.linkedin.com/in/yashraj26/
 
 
 ## 🌐 Socials:
